@@ -9,6 +9,7 @@ builder.Services.AddDbContext<DonationDBContext>(options =>
 );
 
 builder.Services.AddControllersWithViews();
+//added to test git
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

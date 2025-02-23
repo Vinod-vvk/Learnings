@@ -6,7 +6,11 @@ namespace WebAPI.Controllers
     {
         public IActionResult Index() 
         {
+
+            //this is index view
             return View();
+
+            //added for git test
         }
     }
 }
