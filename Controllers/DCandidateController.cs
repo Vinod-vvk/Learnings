@@ -4,7 +4,7 @@ namespace WebAPI.Controllers
 {
     public class DCandidateController : Controller
     {
-        public IActionResult Index()
+        public IActionResult Index() 
         {
             return View();
         }
